@@ -1,2 +1,2 @@
-# IC25a-OpenClayYskills - Evaluando
+# IC25a-OpenClayYskills - Evaluando instalacion
 Actividad 
