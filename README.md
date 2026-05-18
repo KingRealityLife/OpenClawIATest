@@ -26,7 +26,8 @@ Este bot permite:
 ## 1. Crear instancia EC2
 - Sistema operativo: Ubuntu 22/24
 - Tipo recomendado: t2.medium o superior
-- Abrir puerto SSH (22)
+- Abrir puerto SSH (22
+![Creacion de instancia] (imagenes/Screenshot 2026-05-17 220329.png)
 
 ---
 
