@@ -34,6 +34,10 @@ Este bot permite:
 ---
 
 ## 2. Conexión SSH
+![Creación de instancia](Screenshot2026-05-18141438.png)
+
+
+
+
 
 ```bash
-ssh -i "tu-key.pem" ubuntu@IP_PUBLICA
