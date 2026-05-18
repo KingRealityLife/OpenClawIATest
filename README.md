@@ -24,9 +24,12 @@ Este bot permite:
 # ☁️ Instalación en AWS (Ubuntu)
 
 ## 1. Crear instancia EC2
-- Sistema operativo: Ubuntu 22/24
+- Sistema operativo: Ubuntu 26.04 LTS
 - Tipo recomendado: t2.medium o superior
-- Abrir puerto SSH (22
+- Trafico SSG permitido 0.0.0.0/0
+- Almacenamiento 50 GB
+- Crear llave de inicio de sesion
+- Lanzar instancia para finalizar
 - 
 ![Creación de instancia](imagenes/Screenshot%202026-05-17%20220329.png)
 ---
