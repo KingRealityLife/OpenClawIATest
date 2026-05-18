@@ -39,6 +39,6 @@ Este bot permite:
 ## 3. Entramos a la consola y ingresamos las siguientes lineas
 ![Evidencia](imagenes/Screenshot%202026-05-18%20125525.png)
 
-
+Lineas de Codigos: 
 
 ```bash
