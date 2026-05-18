@@ -36,6 +36,7 @@ Este bot permite:
 ## 2. Conexión SSH
 ![Evidencia](imagenes/Screenshot%202026-05-18%20141438.png)
 
+## 3. Conexión SSH
 
 
 
