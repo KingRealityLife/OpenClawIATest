@@ -34,8 +34,7 @@ Este bot permite:
 ---
 
 ## 2. Conexión SSH
-![Creación de instancia](imagenes/Screenshot%2026-05-18%141438.png)
-
+![Evidencia](imagenes/Screenshot%202026-05-18%20141438.png)
 
 
 
