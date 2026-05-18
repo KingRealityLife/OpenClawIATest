@@ -30,7 +30,6 @@ Este bot permite:
 - Almacenamiento 50 GB
 - Crear llave de inicio de sesion
 - Lanzar instancia para finalizar
-- 
 ![Creación de instancia](imagenes/Screenshot%202026-05-17%20220329.png)
 ---
 
