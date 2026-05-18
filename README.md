@@ -1,4 +1,4 @@
-# IC25a-OpenClayYskills - Evaluando instalacion
+# IC25a-OpenClawYskills - Evaluando instalacion
 Actividad 
 🤖 Bot de Telegram con IA (Ubuntu + AWS + Ollama)
 
