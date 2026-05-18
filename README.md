@@ -36,7 +36,8 @@ Este bot permite:
 ## 2. Conexión SSH
 ![Evidencia](imagenes/Screenshot%202026-05-18%20141438.png)
 
-## 3. Conexión SSH
+## 3. Entramos a la consola y ingresamos las siguientes lineas
+![Evidencia](imagenes/Screenshot%202026-05-18%20125525.png)
 
 
 
