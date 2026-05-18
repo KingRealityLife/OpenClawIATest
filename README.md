@@ -28,8 +28,7 @@ Este bot permite:
 - Tipo recomendado: t2.medium o superior
 - Abrir puerto SSH (22
 - 
-![Creación de instancia](imagenes/Screenshot 2026-05-17 220329.png)
-
+![Creación de instancia](imagenes/Screenshot%202026-05-17%20220329.png)
 ---
 
 ## 2. Conexión SSH
